@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Alejandro Cantillo
+# ![https://github.com/Alejandrosbk](https://github.com/Alejandrosbk/Alejandrosbk/blob/main/icon.png) Hola, mi nombre es Alejandro Cantillo
 ### Frontend Developer Angular
 
 Hola, soy un desarrollador web de Colombia con gusto por el aprendizaje y las nuevas tecnologías, me considero una persona autodidacta, proactivo, persistente y con pasión por mi trabajo.
