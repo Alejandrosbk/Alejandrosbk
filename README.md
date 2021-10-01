@@ -16,7 +16,7 @@ Cuento con más de dos años de experiencia en el campo del desarrollo web ejerc
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
 [![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 </br>
-[![](https://img.shields.io/badge/Vscode-0074C2?&style=for-the-badge&logo=Vscode&logoColor=white)]()
+[![](https://img.shields.io/badge/VScode-0074C2?&style=for-the-badge&logo=VScode&logoColor=white)]()
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
 [![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]()
