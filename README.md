@@ -25,7 +25,7 @@ Cuento con más de dos años de experiencia en el campo del desarrollo web ejerc
 [![](https://img.shields.io/badge/MySQL-E34F26?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=101010)]()
 [![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=101010)]()
-[![](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=101010)]()
+[![](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)]()
 </br>
 
 ## Algunos de mis proyectos:
