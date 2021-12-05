@@ -1,9 +1,10 @@
 # ![https://github.com/Alejandrosbk](https://github.com/Alejandrosbk/Alejandrosbk/blob/main/icon.png) Hola, mi nombre es Alejandro Cantillo
 # Frontend Developer Angular
 
-Hola, soy un desarrollador web de Colombia con gusto por el aprendizaje y las nuevas tecnologías, me considero una persona autodidacta, proactivo, persistente y con pasión por mi trabajo.
+Hola, soy un desarrollador web de Colombia con gusto por el aprendizaje y las nuevas tecnologías, me considero una persona autodidacta, proactivo, versátil y apasionado con mi trabajo.
 
-Cuento con más de dos años de experiencia en el campo del desarrollo web ejerciéndolo como tal. Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experiencia he tenido la oportunidad de enfrentarme con diferentes retos y proyectos tanto en el desarrollo front-end como en el back-end. Por lo cual me ha otorgado un complemento para adaptarme en ambas ramas, sin embargo mi meta es apuntar a un STACK en específico como lo es el MEAN STACK o el MERN STACK.
+Cuento con más tres años de experiencia en el campo del desarrollo web ejerciéndolo como tal.
+Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experiencia he tenido la oportunidad de enfrentarme con diferentes retos y proyectos tanto en el desarrollo front-end como en el back-end. Por lo cual me ha otorgado un complemento para adaptarme en ambas ramas, sin embargo, mi meta es apuntar a un STACK en específico como lo es el MEAN STACK o el MERN STACK.
 
 ## Skills y Conocimientos:
 [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
