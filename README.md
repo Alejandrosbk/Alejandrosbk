@@ -28,6 +28,9 @@ Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experie
 [![](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=101010)]()
 [![](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)]()
 </br>
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)]
+</br>
 
 ## Algunos de mis proyectos:
 
