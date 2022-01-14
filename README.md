@@ -1,5 +1,5 @@
 # ![https://github.com/Alejandrosbk](https://github.com/Alejandrosbk/Alejandrosbk/blob/main/icon.png) Hola, mi nombre es Alejandro Cantillo
-# Frontend Developer Angular
+# Software Developer
 
 Hola, soy un desarrollador web de Colombia con gusto por el aprendizaje y las nuevas tecnologías, me considero una persona autodidacta, proactivo, versátil y apasionado con mi trabajo.
 
