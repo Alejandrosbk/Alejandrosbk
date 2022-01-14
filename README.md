@@ -4,7 +4,7 @@
 Hola, soy un desarrollador web de Colombia con gusto por el aprendizaje y las nuevas tecnologías, me considero una persona autodidacta, proactivo, versátil y apasionado con mi trabajo.
 
 Cuento con más tres años de experiencia en el campo del desarrollo web ejerciéndolo como tal.
-Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experiencia he tenido la oportunidad de enfrentarme con diferentes retos y proyectos tanto en el desarrollo front-end como en el back-end. Por lo cual me ha otorgado un complemento para adaptarme en ambas ramas, sin embargo, mi meta es apuntar a un STACK en específico como lo es el MEAN STACK o el MERN STACK.
+Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experiencia he tenido la oportunidad de enfrentarme con diferentes retos y proyectos tanto en el desarrollo front-end como en el back-end. Por lo cual me ha otorgado un complemento para adaptarme en ambas ramas, sin embargo, mi meta es apuntar a un STACK en específico como lo es el MEAN STACK.
 
 ## Skills y Conocimientos:
 [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
@@ -18,8 +18,6 @@ Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experie
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 [![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=101010)]()
-[![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
-[![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 </br>
 [![](https://img.shields.io/badge/VScode-0074C2?&style=for-the-badge&logo=VScode&logoColor=white)]()
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -44,16 +42,8 @@ Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experie
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 </br>
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-</br>
 ![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 </br>
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
