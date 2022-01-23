@@ -4,7 +4,8 @@
 Hola, soy un desarrollador web de Colombia con gusto por el aprendizaje y las nuevas tecnologías, me considero una persona autodidacta, proactivo, versátil y apasionado con mi trabajo.
 
 Cuento con más tres años de experiencia en el campo del desarrollo web ejerciéndolo como tal.
-Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experiencia he tenido la oportunidad de enfrentarme con diferentes retos y proyectos tanto en el desarrollo front-end como en el back-end. Por lo cual me ha otorgado un complemento para adaptarme en ambas ramas, sin embargo, mi meta es apuntar a un STACK en específico como lo es el MEAN STACK.
+Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experiencia he tenido la oportunidad de enfrentarme con diferentes retos y proyectos tanto en el desarrollo front-end como en el back-end. Por lo cual me ha otorgado un complemento para adaptarme en ambas ramas, sin embargo, mi meta es obtener el MEAN STACK (MongoDB, Express, Angular, NodeJs).
+
 
 ## Skills y Conocimientos:
 [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
