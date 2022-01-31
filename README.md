@@ -1,4 +1,4 @@
-# ![https://github.com/Alejandrosbk](https://github.com/Alejandrosbk/Alejandrosbk/blob/main/icon.png) Alejandro Cantillo
+# ![https://github.com/Alejandrosbk](https://github.com/Alejandrosbk/Alejandrosbk/blob/main/icon.png) Alejandro Cantillo, 22, CO
 # Product Engineer Managment at Willay.Inc
 
 Hello, I am Product Engineer in Willay Insurtech from LATAM with a taste for learning and new technologies, I consider myself a self-taught, proactive, versatile and passionate person with my work. I have more than three years of experience in the field of web development, exercising it as such. I am passionate about the world of development and technologies in general, in my experience I have had the opportunity to face different challenges and projects both in front-end and back-end development. So it has given me a plugin to adapt in both branches, however, my goal is to get the MEAN STACK (MongoDB, Express, Angular, NodeJS).
