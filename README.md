@@ -1,13 +1,10 @@
-# ![https://github.com/Alejandrosbk](https://github.com/Alejandrosbk/Alejandrosbk/blob/main/icon.png) Hola, mi nombre es Alejandro Cantillo
-# Software Developer
+# ![https://github.com/Alejandrosbk](https://github.com/Alejandrosbk/Alejandrosbk/blob/main/icon.png) Alejandro Cantillo
+# Product Engineer Managment at Willay.Inc
 
-Hola, soy un desarrollador web de Colombia con gusto por el aprendizaje y las nuevas tecnologías, me considero una persona autodidacta, proactivo, versátil y apasionado con mi trabajo.
-
-Cuento con más tres años de experiencia en el campo del desarrollo web ejerciéndolo como tal.
-Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experiencia he tenido la oportunidad de enfrentarme con diferentes retos y proyectos tanto en el desarrollo front-end como en el back-end. Por lo cual me ha otorgado un complemento para adaptarme en ambas ramas, sin embargo, mi meta es obtener el MEAN STACK (MongoDB, Express, Angular, NodeJs).
+Hello, I am Product Engineer in Willay Insurtech from LATAM with a taste for learning and new technologies, I consider myself a self-taught, proactive, versatile and passionate person with my work. I have more than three years of experience in the field of web development, exercising it as such. I am passionate about the world of development and technologies in general, in my experience I have had the opportunity to face different challenges and projects both in front-end and back-end development. So it has given me a plugin to adapt in both branches, however, my goal is to get the MEAN STACK (MongoDB, Express, Angular, NodeJS).
 
 
-## Skills y Conocimientos:
+## Skills and knowledge
 [![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
 [![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 [![](https://img.shields.io/badge/CSS-1575F9?&style=for-the-badge&logo=css3&logoColor=white)]()
@@ -50,7 +47,7 @@ Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experie
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-## Algunos de mis proyectos:
+## Some of my projects:
 
 <ul>
 	<li>
@@ -80,7 +77,7 @@ Me apasiona el mundo del desarrollo y las tecnologías en general, en mi experie
 	</li>
 </ul>
 
-## Contacto:
+## Contact:
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 - alejofreelance99@gmail.com
 
