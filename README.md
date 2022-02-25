@@ -29,6 +29,11 @@ Hello, I am Product Engineer in Willay Insurtech from LATAM with a taste for lea
 
 <ul>
 	<li>
+		<a href="https://alejandrosbk.github.io/SpotifyApp.github.io/">
+			<p>Spotify App</p>
+		</a>
+	</li>
+	<li>
 		<a href="https://alejandrosbk.github.io/Portafolio-Angular/">
 			<p>Portafolio Angular</p>
 		</a>
