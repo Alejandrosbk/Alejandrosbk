@@ -1,7 +1,7 @@
 # David Alejandro Cantillo
 # Semi Senior Full Stack Developer
 
-Hello, I am Semi Senior Full Stack Developer with a taste for learning and new technologies, I consider myself a self-taught, proactive, versatile and passionate person with my work. I have more than three years of experience in the field of web development, exercising it as such. I am passionate about the world of development and technologies in general, in my experience I have had the opportunity to face different challenges and projects both in front-end and back-end development. So it has given me a plugin to adapt in both branches, however, my goal is to get the MEAN STACK (MongoDB, Express, Angular, NodeJS), and DevOps full AWS.
+Hello, I am Semi Senior Full Stack Developer with a taste for learning and new technologies, I consider myself a self-taught, proactive, versatile and passionate person with my work. I have five years of experience in the field of web development, exercising it as such. I am passionate about the world of development and technologies in general, in my experience I have had the opportunity to face different challenges and projects both in front-end and back-end development. So it has given me a plugin to adapt in both branches, however, my goal is to get the MEAN STACK (MongoDB, Express, Angular, NodeJS), and DevOps full AWS.
 
 Link to my professional portfolio
 https://alejandrosbk.github.io/CVAlejandroC.github.io/
