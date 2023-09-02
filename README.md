@@ -31,31 +31,23 @@ https://alejandrosbk.github.io/CVAlejandroC.github.io/
 ## Some of my projects:
 
 <ul>
-	<li><a href="https://alejandrosbk.github.io/SpotifyApp.github.io/"><p>Spotify App</p></a></li>
 	<li>
-		<a href="https://alejandrosbk.github.io/Portafolio-Angular/">
-			<p>Portafolio Angular</p>
-		</a>
+		<a href="https://alejandrosbk.github.io/SpotifyApp.github.io/"><p>Spotify App</p></a>
 	</li>
 	<li>
-		<a href="https://alejandrosbk.github.io/WeatherApp/">
-			<p>WeatherApp</p>
-		</a>
+		<a href="https://alejandrosbk.github.io/Portafolio-Angular/"><p>Portafolio Angular</p></a>
 	</li>
 	<li>
-		<a href="https://alejandrosbk.github.io/Reproductor-Neomorfismo/">
-			<p>Reproductor estilo Neomorfismo</p>
-		</a>
+		<a href="https://alejandrosbk.github.io/WeatherApp/"><p>WeatherApp</p></a>
 	</li>
 	<li>
-		<a href="https://alejandrosbk.github.io/Materialize-Angular/">
-			<p>Landing Materialize | Angular</p>
-		</a>
+		<a href="https://alejandrosbk.github.io/Reproductor-Neomorfismo/"><p>Reproductor estilo Neomorfismo</p></a>
 	</li>
 	<li>
-		<a href="https://github.com/Alejandrosbk/CRUD-MEAN-STACK">
-			<p>CRUD MEAN STACK</p>
-		</a>
+		<a href="https://alejandrosbk.github.io/Materialize-Angular/"><p>Landing Materialize | Angular</p></a>
+	</li>
+	<li>
+		<a href="https://github.com/Alejandrosbk/CRUD-MEAN-STACK"><p>CRUD MEAN STACK</p></a>
 	</li>
 </ul>
 
