@@ -31,11 +31,7 @@ https://alejandrosbk.github.io/CVAlejandroC.github.io/
 ## Some of my projects:
 
 <ul>
-	<li>
-		<a href="https://alejandrosbk.github.io/SpotifyApp.github.io/">
-			<p>Spotify App</p>
-		</a>
-	</li>
+	<li><a href="https://alejandrosbk.github.io/SpotifyApp.github.io/"><p>Spotify App</p></a></li>
 	<li>
 		<a href="https://alejandrosbk.github.io/Portafolio-Angular/">
 			<p>Portafolio Angular</p>
